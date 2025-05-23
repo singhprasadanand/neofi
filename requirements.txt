@@ -1,0 +1,33 @@
+annotated-types @ file:///croot/annotated-types_1709542908624/work
+anyio @ file:///croot/anyio_1745334642479/work
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///croot/argon2-cffi-bindings_1736182440035/work
+bcrypt @ file:///croot/bcrypt_1747402770140/work
+cffi @ file:///croot/cffi_1736182485317/work
+click @ file:///croot/click_1744271578095/work
+cryptography @ file:///croot/cryptography_1740577825284/work
+dnspython==2.7.0
+ecdsa @ file:///croot/ecdsa_1731939382395/work
+email_validator==2.2.0
+fastapi @ file:///croot/fastapi_1724789151288/work
+future @ file:///work/perseverance-python-buildout/croot/future_1698864451639/work
+greenlet @ file:///croot/greenlet_1733860072744/work
+h11 @ file:///croot/h11_1706652277403/work
+idna @ file:///croot/idna_1714398848350/work
+passlib==1.7.4
+pyasn1 @ file:///croot/pyasn1_1729239786406/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodome @ file:///croot/pycryptodome_1737039435377/work
+pydantic @ file:///croot/pydantic_1734736067156/work
+pydantic_core @ file:///croot/pydantic-core_1734726052986/work
+python-dotenv @ file:///croot/python-dotenv_1745610241282/work
+python-jose @ file:///tmp/build/80754af9/python-jose_1623673016654/work
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+setuptools==78.1.1
+six @ file:///croot/six_1744271502820/work
+sniffio @ file:///croot/sniffio_1705431295498/work
+SQLAlchemy @ file:///croot/sqlalchemy_1745854522333/work
+starlette @ file:///croot/starlette-recipe_1724683205298/work
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+uvicorn @ file:///croot/uvicorn-split_1732660726596/work
+wheel==0.45.1

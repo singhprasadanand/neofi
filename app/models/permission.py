@@ -4,7 +4,6 @@ from app.utils.db_utils.database import Base
 
 class Permission(Base):
     __tablename__ = "permissions"
-    # __table_args__ = (UniqueConstraint('user_id', 'event_id', name='_user_event_uc'),)
 
     id = Column(Integer, primary_key=True, index=True)
     user_id = Column(Integer, ForeignKey("users.id"))
