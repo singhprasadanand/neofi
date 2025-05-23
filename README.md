@@ -6,6 +6,13 @@ and rollback functionality.
 
 ---
 
+## 🚀 Live Demo
+
+The app is live and hosted on **Render**.  
+👉 [Swagger Docs](https://neofi-oma8.onrender.com/docs)
+
+---
+
 ## 🚀 Features
 
 - ✅ User Authentication (token-based)
@@ -56,5 +63,6 @@ conda env create -f environment.yml
 conda activate your_env_name
 
 ---
+
 
 
